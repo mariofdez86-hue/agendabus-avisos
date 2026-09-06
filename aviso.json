@@ -1,3 +1,8 @@
-"version": "1.73",
-"recado": "",
-"recadoId": "",
+{
+  "version": "1.73",
+  "mensaje": "",
+  "recado": "",
+  "recadoId": "",
+  "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
+  "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
+}
