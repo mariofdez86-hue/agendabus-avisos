@@ -1,8 +1,8 @@
 {
-  "version": "1.73",
-  "mensaje": "Los personales entran enteros y ya no cuentan como traslado. Las entregas de recaudación, los LRJ y las tarifas de 2027.",
-  "recado": "Desde mañana empieza la temporada de invierno.",
-  "recadoId": "prueba-2",
+  "version": "1.74",
+  "mensaje": "Los personales entran enteros y ya no cuentan como traslado de estación. Nuevo: entregas de recaudación, los LRJ se cobran, tope de 4 partes al año y las tarifas de 2027. Corregidos la nocturnidad y el L04 del festivo cambiado.",
+  "recado": "",
+  "recadoId": "",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
