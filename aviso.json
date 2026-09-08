@@ -1,8 +1,8 @@
 {
   "version": "1.73",
   "mensaje": "",
-  "recado": "Prueba de los avisos de la app. Si te ha salido esta ventana, funciona: dímelo por WhatsApp y lo confirmamos. A partir de ahora os avisaré por aquí cuando haya versión nueva.",
-  "recadoId": "prueba-testers-1",
+  "recado": "",
+  "recadoId": "",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
