@@ -1,8 +1,8 @@
 {
   "version": "1.73",
   "mensaje": "",
-  "recado": "",
-  "recadoId": "",
+  "recado": "Recordad que este lunes 14 empieza la temporada de invierno.",
+  "recadoId": "invierno-2026",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
