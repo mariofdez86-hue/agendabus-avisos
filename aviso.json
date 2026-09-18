@@ -1,8 +1,8 @@
 {
   "version": "1.74",
   "mensaje": "Perfil paso a paso, turnos con X marcados en la agenda, la E1 cuenta como la 401 y el aviso de mañana ya mira tus cambios.",
-  "recado": "",
-  "recadoId": "",
+  "recado": "¡Atención! El domingo 20 de septiembre es el último día para pedir librar el 12 de octubre.",
+  "recadoId": "fiesta-12-octubre-2026",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
