@@ -1,8 +1,8 @@
 {
   "version": "1.77",
   "mensaje": "Tus turnos al calendario del móvil con un toque. El premio separa ahora lo que llevas hecho de la previsión a fin de año, con su desglose, y hay una tarjeta nueva con los días generados del año. Arreglados el teclado del iPhone, los textos que se cortaban con la letra grande y el aviso del día sindical. La contraseña del portal ya no va dentro de las copias de seguridad.",
-  "recado": "El 2 de noviembre es festivo (Todos los Santos, trasladado al lunes).\n\nQuien quiera librarlo sin compensación tiene que cursar la petición del 28 de septiembre al 7 de octubre, ambos inclusive. Si hace falta sorteo, será el 9 de octubre.\n\nSi te lo conceden, en la app lo marcas en ☀️ Festivo como «libre sin compensación» (L10).",
-  "recadoId": "festivo-2-noviembre-2026",
+  "recado": "El 2 de noviembre (Todos los Santos, pasado al lunes) y el 9 de noviembre (la Almudena) son festivos.\n\nPara librarlos sin compensación hay que cursar la petición:\n\n· 2 de noviembre — hasta el 7 de octubre. Si hace falta sorteo, el 9.\n· 9 de noviembre — hasta el 14 de octubre. Si hace falta sorteo, el 16. Este es para Línea de Movimiento.\n\nSi te lo conceden, en la app lo marcas en ☀️ Festivo como «libre sin compensación» (L10).",
+  "recadoId": "festivos-2-y-9-noviembre-2026",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
