@@ -1,8 +1,8 @@
 {
-  "version": "1.78",
-  "mensaje": "Los colores se leen: la paleta estaba pensada para fondo oscuro y casi nadie usa ese tema. Al cobrar un día generado eliges en qué nómina entra. Los festivos de 2027, y la app deja de vivir en 2026. La turnicidad solo la cobra el correturnos de mañana y de tarde, y el abono retirado son 5,22 €. Autocompletar tiene su propio botón, y hay soporte por Telegram.",
-  "recado": "Último aviso para el 9 de noviembre, la Almudena: el plazo para pedirlo acaba el miércoles 14.\n\nQuien quiera librarlo sin compensación tiene que cursar la petición antes de esa fecha. Si hace falta sorteo, será el 16. Es para Línea de Movimiento.\n\nSi te lo conceden, en la app lo marcas en ☀️ Festivo como «libre sin compensación» (L10).",
-  "recadoId": "recordatorio-9-noviembre-2026",
+  "version": "2.0",
+  "mensaje": "AgendaBus 2.0. Comisión de servicio, lo que ganas cada día en la agenda, los días del portal cotejados con tu agenda y el cambio de cochera sin que se te descuadren los traslados. Ahora eliges los colores de la app. Y llega AgendaBus Pro: tu agenda en todos tus aparatos, mejores vacaciones, «Cómo llego» y sin anuncios.",
+  "recado": "",
+  "recadoId": "",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
