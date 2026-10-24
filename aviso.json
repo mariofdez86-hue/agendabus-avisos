@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "mensaje": "AgendaBus 2.0. Comisión de servicio, lo que ganas cada día en la agenda, los días del portal cotejados con tu agenda y el cambio de cochera sin que se te descuadren los traslados. Ahora eliges los colores de la app. Y llega AgendaBus Pro: tu agenda en todos tus aparatos, mejores vacaciones, «Cómo llego» y sin anuncios.",
+  "version": "2.0.1",
+  "mensaje": "AgendaBus 2.0.1. Los calendarios de 2027 de los cuatro servicios, con el ciclo nuevo. Comprobar tu nombramiento pegando lo que te dice el bot de Telegram (Pro). Los cambios, ordenados y filtrados. El LDE con su contador y la Seguridad Social en la previsión de la nómina.",
   "recado": "",
   "recadoId": "",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
