@@ -1,8 +1,9 @@
 {
   "version": "2.0.4",
   "mensaje": "AgendaBus 2.0.4. Si eres del refuerzo nocturno, mira tu grupo: las letras de 2027 estaban corridas y te enseñábamos el calendario de otro. Ya está el bueno, y están los diez grupos nuevos. Al búho también le cambian días. Y «Cómo vuelvo»: la ruta a tu casa o a la cochera de esa línea cuando acabas el turno en una cabecera. Más el parte de averías con sus fotos, las excedencias en el perfil y el CIPRA bien contado.",
-  "recado": "",
-  "recadoId": "",
+  "recado": "Si cambias de móvil, tu agenda se queda en el viejo: los turnos, los cambios, los días pedidos. Con AgendaBus Pro se guarda en tu cuenta y la recuperas entrando con tu correo, en el móvil nuevo y en el ordenador. 4,99 € al año y el primer mes gratis, en Más → Tu cuenta Pro.\n\nSi ya eres Pro, gracias: la app la mantienes tú.",
+  "recadoId": "pro-nube-nov-2026",
+  "imagen": "",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
 }
