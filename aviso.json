@@ -1,8 +1,8 @@
 {
-  "version": "2.0.4",
-  "mensaje": "AgendaBus 2.0.4. Si eres del refuerzo nocturno, mira tu grupo: las letras de 2027 estaban corridas y te enseñábamos el calendario de otro. Ya está el bueno, y están los diez grupos nuevos. Al búho también le cambian días. Y «Cómo vuelvo»: la ruta a tu casa o a la cochera de esa línea cuando acabas el turno en una cabecera. Más el parte de averías con sus fotos, las excedencias en el perfil y el CIPRA bien contado.",
-  "recado": "Si cambias de móvil, tu agenda se queda en el viejo: los turnos, los cambios, los días pedidos. Con AgendaBus Pro se guarda en tu cuenta y la recuperas entrando con tu correo, en el móvil nuevo y en el ordenador. 4,99 € al año y el primer mes gratis, en Más → Tu cuenta Pro.\n\nSi ya eres Pro, gracias: la app la mantienes tú.",
-  "recadoId": "pro-nube-nov-2026",
+  "version": "2.0.5",
+  "mensaje": "AgendaBus 2.0.5. Si se te cerraba la app al guardar un turno, era por tener muchos avisos puestos: ya está arreglado, y los avisos que no llegaban ya llegan. Los servicios especiales se reconocen como tu línea —la SE866 es la 866—, así que se acabó el traslado de estación que no tocaba. El refuerzo nocturno va por número, del 1 al 50, y los de nuevo ingreso ya tienen su cuadrante en el perfil. El permiso retribuido se dice con horas, «estuve fuera de tal a tal», y la app ajusta sola lo que no trabajaste. Y el cuadro del correturnos ya no se estira sobre 2027, que cambia a 50 semanas. Más: la baja interrumpe la vacación, el LDE ganado sale en Días generados y el calendario anual ya respeta los cambios de libre.",
+  "recado": "",
+  "recadoId": "",
   "imagen": "",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.agendaemt.app",
   "urlIos": "https://apps.apple.com/app/agendabus/id6793064170"
